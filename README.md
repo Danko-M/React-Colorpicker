@@ -13,4 +13,4 @@ _[Codepen](http://codepen.io/_danko/full/JKaxKE/)_
 
 Go to `localhost:8080`
 
-Author: _[Site](http://danko-m.github.io)_
+Author: _[Site](http://dankoknad.github.io)_
